@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1653097688 source:c:\users\ad\documents\cppcode\dino\baseobject.cpp
+	"BaseObject.h"
+
+1653097688 c:\users\ad\documents\cppcode\dino\baseobject.h
+	"CommonFunc.h"
+
+1655739229 c:\users\ad\documents\cppcode\dino\commonfunc.h
+	<windows.h>
+	<vector>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	"TextObject.h"
+	"BaseObject.h"
+
+1653097688 c:\users\ad\documents\cppcode\dino\textobject.h
+	"CommonFunc.h"
+
+1655733805 source:c:\users\ad\documents\cppcode\dino\blockobject.cpp
+	"BlockObject.h"
+
+1653096428 c:\users\ad\documents\cppcode\dino\blockobject.h
+	"Geometric.h"
+
+1653097688 c:\users\ad\documents\cppcode\dino\geometric.h
+	"CommonFunc.h"
+
+1655740954 source:c:\users\ad\documents\cppcode\dino\commonfunc.cpp
+	"CommonFunc.h"
+
+1653097688 source:c:\users\ad\documents\cppcode\dino\geometric.cpp
+	"Geometric.h"
+
+1654078904 source:c:\users\ad\documents\cppcode\dino\imptimer.cpp
+	"ImpTimer.h"
+	"CommonFunc.h"
+
+1653097688 c:\users\ad\documents\cppcode\dino\imptimer.h
+
+1655991459 source:c:\users\ad\documents\cppcode\dino\main.cpp
+	"CommonFunc.h"
+	"PlayerObject.h"
+	"ImpTimer.h"
+	"BlockObject.h"
+	"Geometric.h"
+
+1654465790 c:\users\ad\documents\cppcode\dino\playerobject.h
+	"CommonFunc.h"
+
+1655736554 source:c:\users\ad\documents\cppcode\dino\playerobject.cpp
+	"PlayerObject.h"
+	<iostream>
+
+1653097688 source:c:\users\ad\documents\cppcode\dino\textobject.cpp
+	"TextObject.h"
+
